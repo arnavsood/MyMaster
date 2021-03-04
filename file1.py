@@ -1,1 +1,1 @@
-print("ok")
+print("this is my ")
