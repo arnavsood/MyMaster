@@ -1,2 +1,1 @@
-print("this is my ")
-print("concor ahed")
+print("ahead4343")
